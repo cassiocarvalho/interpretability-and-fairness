@@ -1,0 +1,21 @@
+
+
+ANN7 - test - quota_OC_code: No
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.83      0.74       572
+           1       0.83      0.67      0.75       739
+
+    accuracy                           0.74      1311
+   macro avg       0.75      0.75      0.74      1311
+weighted avg       0.76      0.74      0.74      1311
+
+
+ANN7 auc roc:
+
+0.825

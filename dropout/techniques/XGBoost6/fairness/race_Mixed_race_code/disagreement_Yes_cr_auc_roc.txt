@@ -1,0 +1,21 @@
+
+
+XGBoost6 - disagreement - race_Mixed_race_code: Yes
+
+
+
+XGBoost6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.57      0.91      0.70        58
+           1       0.75      0.27      0.40        55
+
+    accuracy                           0.60       113
+   macro avg       0.66      0.59      0.55       113
+weighted avg       0.66      0.60      0.56       113
+
+
+XGBoost6 auc roc:
+
+0.687

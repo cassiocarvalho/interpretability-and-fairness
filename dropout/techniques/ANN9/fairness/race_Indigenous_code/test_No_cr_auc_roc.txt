@@ -1,0 +1,21 @@
+
+
+ANN9 - test - race_Indigenous_code: No
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.83      0.73      1404
+           1       0.86      0.69      0.77      2130
+
+    accuracy                           0.75      3534
+   macro avg       0.75      0.76      0.75      3534
+weighted avg       0.78      0.75      0.75      3534
+
+
+ANN9 auc roc:
+
+0.838

@@ -1,0 +1,21 @@
+
+
+ANN5 - disagreement - race_Mixed_race_code: No
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.75      0.01      0.03       201
+           1       0.86      1.00      0.92      1206
+
+    accuracy                           0.86      1407
+   macro avg       0.80      0.51      0.48      1407
+weighted avg       0.84      0.86      0.80      1407
+
+
+ANN5 auc roc:
+
+0.795

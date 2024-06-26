@@ -1,0 +1,21 @@
+
+
+ANN7 - disagreement - from_public_school_No_code: No
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       198
+           1       0.85      1.00      0.92      1127
+
+    accuracy                           0.85      1325
+   macro avg       0.43      0.50      0.46      1325
+weighted avg       0.72      0.85      0.78      1325
+
+
+ANN7 auc roc:
+
+0.785

@@ -1,0 +1,21 @@
+
+
+ANN3 - test2 - race_Black_code: Yes
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.77      0.70        88
+           1       0.88      0.80      0.84       184
+
+    accuracy                           0.79       272
+   macro avg       0.76      0.79      0.77       272
+weighted avg       0.80      0.79      0.79       272
+
+
+ANN3 auc roc:
+
+0.865

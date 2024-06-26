@@ -1,0 +1,21 @@
+
+
+RandomForest10 - test2 - gender_Male_code: No
+
+
+
+RandomForest10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.73      0.76      0.74       877
+           1       0.81      0.78      0.79      1126
+
+    accuracy                           0.77      2003
+   macro avg       0.77      0.77      0.77      2003
+weighted avg       0.77      0.77      0.77      2003
+
+
+RandomForest10 auc roc:
+
+0.849

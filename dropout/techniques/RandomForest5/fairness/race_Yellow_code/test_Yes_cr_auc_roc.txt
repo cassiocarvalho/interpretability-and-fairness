@@ -1,0 +1,21 @@
+
+
+RandomForest5 - test - race_Yellow_code: Yes
+
+
+
+RandomForest5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.83      0.77         6
+           1       0.88      0.78      0.82         9
+
+    accuracy                           0.80        15
+   macro avg       0.79      0.81      0.80        15
+weighted avg       0.81      0.80      0.80        15
+
+
+RandomForest5 auc roc:
+
+0.787

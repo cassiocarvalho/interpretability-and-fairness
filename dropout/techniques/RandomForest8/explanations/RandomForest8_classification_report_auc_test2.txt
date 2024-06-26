@@ -1,0 +1,21 @@
+
+
+RandomForest8 Report test2 set
+
+
+
+RandomForest8 classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.74      0.71      1405
+           1       0.82      0.78      0.80      2133
+
+    accuracy                           0.76      3538
+   macro avg       0.75      0.76      0.76      3538
+weighted avg       0.77      0.76      0.77      3538
+
+
+RandomForest8 auc_roc:
+
+0.851

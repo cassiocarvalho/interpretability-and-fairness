@@ -1,0 +1,21 @@
+
+
+XGBoost5 Report test2 set
+
+
+
+XGBoost5 classification_report. Agreement:
+
+              precision    recall  f1-score   support
+
+           0       0.76      0.42      0.54       605
+           1       0.83      0.95      0.89      1740
+
+    accuracy                           0.82      2345
+   macro avg       0.79      0.69      0.71      2345
+weighted avg       0.81      0.82      0.80      2345
+
+
+XGBoost5 auc_roc. Agreement:
+
+0.87

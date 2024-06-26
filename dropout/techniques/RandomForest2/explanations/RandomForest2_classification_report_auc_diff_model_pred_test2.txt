@@ -1,0 +1,21 @@
+
+
+RandomForest2 Report test2 set
+
+
+
+RandomForest2 classification_report. Disagreement. Model prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.96      0.79       804
+           1       0.56      0.10      0.16       416
+
+    accuracy                           0.67      1220
+   macro avg       0.62      0.53      0.48      1220
+weighted avg       0.64      0.67      0.58      1220
+
+
+RandomForest2 auc_roc. Disagreement. Model prediction:
+
+0.654

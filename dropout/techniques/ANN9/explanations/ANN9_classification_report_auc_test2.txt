@@ -1,0 +1,21 @@
+
+
+ANN9 Report test2 set
+
+
+
+ANN9 classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.80      0.72      1405
+           1       0.85      0.72      0.78      2133
+
+    accuracy                           0.75      3538
+   macro avg       0.75      0.76      0.75      3538
+weighted avg       0.77      0.75      0.76      3538
+
+
+ANN9 auc_roc:
+
+0.835

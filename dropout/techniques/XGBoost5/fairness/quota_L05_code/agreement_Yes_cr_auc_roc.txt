@@ -1,0 +1,21 @@
+
+
+XGBoost5 - agreement - quota_L05_code: Yes
+
+
+
+XGBoost5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.75      0.41      0.53        74
+           1       0.80      0.95      0.87       186
+
+    accuracy                           0.79       260
+   macro avg       0.78      0.68      0.70       260
+weighted avg       0.79      0.79      0.77       260
+
+
+XGBoost5 auc roc:
+
+0.822

@@ -1,0 +1,21 @@
+
+
+XGBoost3 - disagreement - race_Black_code: Yes
+
+
+
+XGBoost3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.98      0.82        51
+           1       0.00      0.00      0.00        21
+
+    accuracy                           0.69        72
+   macro avg       0.35      0.49      0.41        72
+weighted avg       0.50      0.69      0.58        72
+
+
+XGBoost3 auc roc:
+
+0.697

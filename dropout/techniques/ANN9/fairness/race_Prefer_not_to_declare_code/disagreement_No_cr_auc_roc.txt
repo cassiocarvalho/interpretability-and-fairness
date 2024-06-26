@@ -1,0 +1,21 @@
+
+
+ANN9 - disagreement - race_Prefer_not_to_declare_code: No
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.41      0.05      0.09       257
+           1       0.80      0.98      0.88       968
+
+    accuracy                           0.79      1225
+   macro avg       0.60      0.52      0.48      1225
+weighted avg       0.71      0.79      0.71      1225
+
+
+ANN9 auc roc:
+
+0.732

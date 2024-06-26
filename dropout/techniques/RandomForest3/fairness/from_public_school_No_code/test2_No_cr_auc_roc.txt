@@ -1,0 +1,21 @@
+
+
+RandomForest3 - test2 - from_public_school_No_code: No
+
+
+
+RandomForest3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.71      0.70       998
+           1       0.82      0.80      0.81      1581
+
+    accuracy                           0.77      2579
+   macro avg       0.75      0.76      0.76      2579
+weighted avg       0.77      0.77      0.77      2579
+
+
+RandomForest3 auc roc:
+
+0.858

@@ -1,0 +1,21 @@
+
+
+XGBoost1 - agreement - race_Prefer_not_to_declare_code: Yes
+
+
+
+XGBoost1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.46      0.60        28
+           1       0.81      0.97      0.88        66
+
+    accuracy                           0.82        94
+   macro avg       0.84      0.72      0.74        94
+weighted avg       0.83      0.82      0.80        94
+
+
+XGBoost1 auc roc:
+
+0.878

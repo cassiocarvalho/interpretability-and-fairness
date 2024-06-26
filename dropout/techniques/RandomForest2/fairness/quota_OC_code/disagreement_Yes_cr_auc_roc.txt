@@ -1,0 +1,21 @@
+
+
+RandomForest2 - disagreement - quota_OC_code: Yes
+
+
+
+RandomForest2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.97      0.79       488
+           1       0.57      0.08      0.15       250
+
+    accuracy                           0.67       738
+   macro avg       0.62      0.53      0.47       738
+weighted avg       0.64      0.67      0.57       738
+
+
+RandomForest2 auc roc:
+
+0.668

@@ -1,0 +1,21 @@
+
+
+ANN10 - test - race_Yellow_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.77      0.71      1400
+           1       0.83      0.74      0.79      2124
+
+    accuracy                           0.75      3524
+   macro avg       0.75      0.76      0.75      3524
+weighted avg       0.77      0.75      0.76      3524
+
+
+ANN10 auc roc:
+
+0.836

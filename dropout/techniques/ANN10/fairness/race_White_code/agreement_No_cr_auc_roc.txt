@@ -1,0 +1,21 @@
+
+
+ANN10 - agreement - race_White_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.58      0.99      0.74       176
+           1       0.96      0.18      0.30       152
+
+    accuracy                           0.62       328
+   macro avg       0.77      0.59      0.52       328
+weighted avg       0.76      0.62      0.53       328
+
+
+ANN10 auc roc:
+
+0.659

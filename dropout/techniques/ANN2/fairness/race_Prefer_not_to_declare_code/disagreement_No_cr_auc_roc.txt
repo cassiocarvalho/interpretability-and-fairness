@@ -1,0 +1,21 @@
+
+
+ANN2 - disagreement - race_Prefer_not_to_declare_code: No
+
+
+
+ANN2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.12      0.00      0.01       305
+           1       0.82      0.99      0.90      1386
+
+    accuracy                           0.82      1691
+   macro avg       0.47      0.50      0.45      1691
+weighted avg       0.69      0.82      0.74      1691
+
+
+ANN2 auc roc:
+
+0.803

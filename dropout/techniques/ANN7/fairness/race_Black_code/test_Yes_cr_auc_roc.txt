@@ -1,0 +1,21 @@
+
+
+ANN7 - test - race_Black_code: Yes
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.67      0.67        98
+           1       0.81      0.81      0.81       167
+
+    accuracy                           0.76       265
+   macro avg       0.74      0.74      0.74       265
+weighted avg       0.76      0.76      0.76       265
+
+
+ANN7 auc roc:
+
+0.832

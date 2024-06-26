@@ -1,0 +1,21 @@
+
+
+ANN5 - test - quota_OC_code: Yes
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.82      0.73       842
+           1       0.87      0.73      0.79      1372
+
+    accuracy                           0.77      2214
+   macro avg       0.76      0.78      0.76      2214
+weighted avg       0.79      0.77      0.77      2214
+
+
+ANN5 auc roc:
+
+0.858

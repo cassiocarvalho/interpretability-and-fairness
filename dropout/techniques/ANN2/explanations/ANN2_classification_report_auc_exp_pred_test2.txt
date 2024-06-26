@@ -1,0 +1,21 @@
+
+
+ANN2 Report test2 set
+
+
+
+ANN2 classification_report. Explanations:
+
+              precision    recall  f1-score   support
+
+           0       0.41      1.00      0.58      1405
+           1       0.97      0.06      0.12      2133
+
+    accuracy                           0.43      3538
+   macro avg       0.69      0.53      0.35      3538
+weighted avg       0.75      0.43      0.30      3538
+
+
+ANN2 auc_roc. Explanations: (without predict_proba())
+
+0.53

@@ -1,0 +1,21 @@
+
+
+ANN4 - test2 - race_Prefer_not_to_declare_code: Yes
+
+
+
+ANN4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.58      0.66      0.61        29
+           1       0.81      0.75      0.78        56
+
+    accuracy                           0.72        85
+   macro avg       0.69      0.70      0.70        85
+weighted avg       0.73      0.72      0.72        85
+
+
+ANN4 auc roc:
+
+0.802

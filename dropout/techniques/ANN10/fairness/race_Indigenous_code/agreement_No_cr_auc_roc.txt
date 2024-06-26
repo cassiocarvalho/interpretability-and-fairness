@@ -1,0 +1,21 @@
+
+
+ANN10 - agreement - race_Indigenous_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      1.00      0.80      1096
+           1       0.96      0.08      0.15       606
+
+    accuracy                           0.67      1702
+   macro avg       0.81      0.54      0.47      1702
+weighted avg       0.77      0.67      0.57      1702
+
+
+ANN10 auc roc:
+
+0.679

@@ -1,0 +1,21 @@
+
+
+ANN3 - test2 - from_public_school_Yes_code: Yes
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.80      0.71       998
+           1       0.85      0.72      0.78      1581
+
+    accuracy                           0.75      2579
+   macro avg       0.74      0.76      0.74      2579
+weighted avg       0.77      0.75      0.75      2579
+
+
+ANN3 auc roc:
+
+0.839

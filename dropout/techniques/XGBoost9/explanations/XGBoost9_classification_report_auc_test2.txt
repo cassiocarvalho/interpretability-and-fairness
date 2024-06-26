@@ -1,0 +1,21 @@
+
+
+XGBoost9 Report test2 set
+
+
+
+XGBoost9 classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.76      0.73      1405
+           1       0.83      0.79      0.81      2133
+
+    accuracy                           0.78      3538
+   macro avg       0.77      0.77      0.77      3538
+weighted avg       0.78      0.78      0.78      3538
+
+
+XGBoost9 auc_roc:
+
+0.857

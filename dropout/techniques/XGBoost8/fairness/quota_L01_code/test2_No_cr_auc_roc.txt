@@ -1,0 +1,21 @@
+
+
+XGBoost8 - test2 - quota_L01_code: No
+
+
+
+XGBoost8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.77      0.74      1194
+           1       0.85      0.80      0.82      1887
+
+    accuracy                           0.79      3081
+   macro avg       0.78      0.78      0.78      3081
+weighted avg       0.79      0.79      0.79      3081
+
+
+XGBoost8 auc roc:
+
+0.864

@@ -1,0 +1,21 @@
+
+
+XGBoost2 Report test2 set
+
+
+
+XGBoost2 classification_report. Disagreement. Model prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.98      0.80       903
+           1       0.46      0.03      0.06       430
+
+    accuracy                           0.68      1333
+   macro avg       0.57      0.51      0.43      1333
+weighted avg       0.61      0.68      0.56      1333
+
+
+XGBoost2 auc_roc. Disagreement. Model prediction:
+
+0.69

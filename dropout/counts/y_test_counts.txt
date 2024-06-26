@@ -1,0 +1,6 @@
+
+Total samples from the test set. Class 0 (Graduated) and 1 (Dropout)
+target
+1    2133
+0    1405
+Name: count, dtype: int64

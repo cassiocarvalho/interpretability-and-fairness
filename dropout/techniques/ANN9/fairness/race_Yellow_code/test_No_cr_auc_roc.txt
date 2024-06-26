@@ -1,0 +1,21 @@
+
+
+ANN9 - test - race_Yellow_code: No
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.84      0.73      1400
+           1       0.87      0.69      0.77      2123
+
+    accuracy                           0.75      3523
+   macro avg       0.75      0.77      0.75      3523
+weighted avg       0.78      0.75      0.75      3523
+
+
+ANN9 auc roc:
+
+0.838

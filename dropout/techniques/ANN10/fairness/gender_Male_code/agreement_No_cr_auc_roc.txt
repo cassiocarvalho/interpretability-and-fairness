@@ -1,0 +1,21 @@
+
+
+ANN10 - agreement - gender_Male_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      1.00      0.80       713
+           1       0.92      0.06      0.11       365
+
+    accuracy                           0.68      1078
+   macro avg       0.80      0.53      0.46      1078
+weighted avg       0.76      0.68      0.57      1078
+
+
+ANN10 auc roc:
+
+0.677

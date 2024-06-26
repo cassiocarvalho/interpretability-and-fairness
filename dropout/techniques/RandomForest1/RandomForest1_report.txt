@@ -1,0 +1,127 @@
+
+
+RandomForest1 Report
+
+
+RandomForest1 cv_results:
+
+╒═══════════════════╤════════════════════╕
+│ Metric            │ Value              │
+╞═══════════════════╪════════════════════╡
+│ mean_fit_time     │ [1.65871415]       │
+├───────────────────┼────────────────────┤
+│ std_fit_time      │ [0.20877067]       │
+├───────────────────┼────────────────────┤
+│ mean_score_time   │ [0.04232814]       │
+├───────────────────┼────────────────────┤
+│ std_score_time    │ [0.00380967]       │
+├───────────────────┼────────────────────┤
+│ param_fs__k       │ ['all']            │
+├───────────────────┼────────────────────┤
+│ params            │ [{'fs__k': 'all'}] │
+├───────────────────┼────────────────────┤
+│ split0_test_score │ [0.81484375]       │
+├───────────────────┼────────────────────┤
+│ split1_test_score │ [0.80625]          │
+├───────────────────┼────────────────────┤
+│ split2_test_score │ [0.8296875]        │
+├───────────────────┼────────────────────┤
+│ split3_test_score │ [0.803125]         │
+├───────────────────┼────────────────────┤
+│ split4_test_score │ [0.8171875]        │
+├───────────────────┼────────────────────┤
+│ split5_test_score │ [0.79140625]       │
+├───────────────────┼────────────────────┤
+│ split6_test_score │ [0.80999853]       │
+├───────────────────┼────────────────────┤
+│ split7_test_score │ [0.81624609]       │
+├───────────────────┼────────────────────┤
+│ split8_test_score │ [0.82019146]       │
+├───────────────────┼────────────────────┤
+│ split9_test_score │ [0.81785505]       │
+├───────────────────┼────────────────────┤
+│ mean_test_score   │ [0.81267911]       │
+├───────────────────┼────────────────────┤
+│ std_test_score    │ [0.01001289]       │
+├───────────────────┼────────────────────┤
+│ rank_test_score   │ [1]                │
+╘═══════════════════╧════════════════════╛
+
+
+RandomForest1 Report in test set: 
+
+╒═════════════════════════╤═════════╕
+│ Metric                  │   Value │
+╞═════════════════════════╪═════════╡
+│ balanced_accuracy_score │   0.756 │
+├─────────────────────────┼─────────┤
+│ accuracy_score          │   0.763 │
+├─────────────────────────┼─────────┤
+│ auc_roc                 │   0.849 │
+╘═════════════════════════╧═════════╛
+
+RandomForest1 classification_report in test set:
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.72      0.71      1405
+           1       0.81      0.79      0.80      2133
+
+    accuracy                           0.76      3538
+   macro avg       0.75      0.76      0.75      3538
+weighted avg       0.76      0.76      0.76      3538
+
+
+
+RandomForest1 Feature Importance: 
+
+=======================================  ============
+Attribute                                  Importance
+=======================================  ============
+semester_average                          0.216387
+num_approved_credits                      0.121302
+entry_age                                 0.0724183
+num_failed_credits                        0.0619493
+years_between_high_school_and_college     0.0589
+num_nonattendance_credits                 0.0493625
+num_credits_reference_semester            0.0432087
+num_credits                               0.0372882
+num_exams                                 0.0362251
+num_disciplines                           0.0356226
+gender_Male_code                          0.0180359
+gender_Female_code                        0.0160906
+fundamental_area_Health_Biological_code   0.0160035
+fundamental_area_Exact_Technology_code    0.0146096
+quota_OC_code                             0.0133095
+num_dispensed_credits                     0.0114675
+shift_Morning_Afternoon_code              0.011467
+race_White_code                           0.0114588
+shift_Night_code                          0.0108692
+from_public_school_Yes_code               0.0104923
+from_public_school_No_code                0.0103273
+quota_L01_code                            0.0102401
+fundamental_area_Literature_Arts_code     0.00983686
+fundamental_area_Agricultural_code        0.00963776
+fundamental_area_Philosophy_Human_code    0.00958202
+quota_L05_code                            0.00950336
+marital_status_Single_code                0.00797173
+race_Mixed_race_code                      0.00764793
+num_locked_credits                        0.00717123
+marital_status_Married_code               0.00623878
+race_Black_code                           0.00617618
+shift_Afternoon_code                      0.00585953
+shift_Full_time_code                      0.00576014
+quota_L06_code                            0.00532299
+quota_L02_code                            0.00487665
+shift_Afternoon_Night_code                0.00352513
+race_Prefer_not_to_declare_code           0.00328097
+marital_status_Others_code                0.00306242
+marital_status_Divorced_code              0.00231665
+has_college_degree_Yes_code               0.00171411
+has_college_degree_No_code                0.00148039
+race_Yellow_code                          0.000652083
+shift_Morning_code                        0.00043347
+marital_status_Widowed_code               0.000402193
+marital_status_Legally_separated_code     0.000275536
+race_Indigenous_code                      0.000236103
+=======================================  ============

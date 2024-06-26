@@ -1,0 +1,21 @@
+
+
+ANN7 - agreement - race_Indigenous_code: No
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      1.00      0.79      1157
+           1       1.00      0.01      0.02       637
+
+    accuracy                           0.65      1794
+   macro avg       0.82      0.51      0.40      1794
+weighted avg       0.77      0.65      0.51      1794
+
+
+ANN7 auc roc:
+
+0.677

@@ -1,0 +1,21 @@
+
+
+RandomForest8 - test - race_Prefer_not_to_declare_code: Yes
+
+
+
+RandomForest8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.77      0.73        35
+           1       0.86      0.80      0.83        61
+
+    accuracy                           0.79        96
+   macro avg       0.78      0.79      0.78        96
+weighted avg       0.80      0.79      0.79        96
+
+
+RandomForest8 auc roc:
+
+0.866

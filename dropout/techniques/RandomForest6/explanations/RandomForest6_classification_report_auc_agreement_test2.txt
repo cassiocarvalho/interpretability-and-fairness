@@ -1,0 +1,21 @@
+
+
+RandomForest6 Report test2 set
+
+
+
+RandomForest6 classification_report. Agreement:
+
+              precision    recall  f1-score   support
+
+           0       0.76      0.64      0.69       827
+           1       0.84      0.90      0.87      1720
+
+    accuracy                           0.82      2547
+   macro avg       0.80      0.77      0.78      2547
+weighted avg       0.81      0.82      0.81      2547
+
+
+RandomForest6 auc_roc. Agreement:
+
+0.887

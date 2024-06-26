@@ -1,0 +1,21 @@
+
+
+RandomForest7 - test2 - race_Indigenous_code: Yes
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         1
+           1       0.75      0.75      0.75         4
+
+    accuracy                           0.60         5
+   macro avg       0.38      0.38      0.38         5
+weighted avg       0.60      0.60      0.60         5
+
+
+RandomForest7 auc roc:
+
+0.75

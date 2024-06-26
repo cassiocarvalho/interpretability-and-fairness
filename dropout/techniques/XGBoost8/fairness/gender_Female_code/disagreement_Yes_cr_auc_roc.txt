@@ -1,0 +1,21 @@
+
+
+XGBoost8 - disagreement - gender_Female_code: Yes
+
+
+
+XGBoost8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.88      0.79       353
+           1       0.76      0.50      0.60       255
+
+    accuracy                           0.72       608
+   macro avg       0.73      0.69      0.69       608
+weighted avg       0.73      0.72      0.71       608
+
+
+XGBoost8 auc roc:
+
+0.744

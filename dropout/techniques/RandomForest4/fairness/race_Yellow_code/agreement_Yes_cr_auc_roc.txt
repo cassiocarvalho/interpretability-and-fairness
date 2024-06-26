@@ -1,0 +1,21 @@
+
+
+RandomForest4 - agreement - race_Yellow_code: Yes
+
+
+
+RandomForest4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.57      0.67      0.62         6
+           1       0.67      0.57      0.62         7
+
+    accuracy                           0.62        13
+   macro avg       0.62      0.62      0.62        13
+weighted avg       0.62      0.62      0.62        13
+
+
+RandomForest4 auc roc:
+
+0.774

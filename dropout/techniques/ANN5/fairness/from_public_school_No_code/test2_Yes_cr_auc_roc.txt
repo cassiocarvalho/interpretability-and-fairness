@@ -1,0 +1,21 @@
+
+
+ANN5 - test2 - from_public_school_No_code: Yes
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.84      0.75       389
+           1       0.86      0.70      0.77       542
+
+    accuracy                           0.76       931
+   macro avg       0.77      0.77      0.76       931
+weighted avg       0.78      0.76      0.76       931
+
+
+ANN5 auc roc:
+
+0.848

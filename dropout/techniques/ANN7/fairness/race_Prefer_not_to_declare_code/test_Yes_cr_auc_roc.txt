@@ -1,0 +1,21 @@
+
+
+ANN7 - test - race_Prefer_not_to_declare_code: Yes
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.82      0.74        34
+           1       0.90      0.79      0.84        68
+
+    accuracy                           0.80       102
+   macro avg       0.78      0.81      0.79       102
+weighted avg       0.82      0.80      0.81       102
+
+
+ANN7 auc roc:
+
+0.857

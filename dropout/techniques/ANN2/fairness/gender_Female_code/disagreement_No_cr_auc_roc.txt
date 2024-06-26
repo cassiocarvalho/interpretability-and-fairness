@@ -1,0 +1,21 @@
+
+
+ANN2 - disagreement - gender_Female_code: No
+
+
+
+ANN2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       145
+           1       0.83      1.00      0.91       723
+
+    accuracy                           0.83       868
+   macro avg       0.42      0.50      0.45       868
+weighted avg       0.69      0.83      0.76       868
+
+
+ANN2 auc roc:
+
+0.813

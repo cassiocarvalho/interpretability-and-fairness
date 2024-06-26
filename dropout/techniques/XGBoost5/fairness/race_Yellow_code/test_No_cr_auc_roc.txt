@@ -1,0 +1,21 @@
+
+
+XGBoost5 - test - race_Yellow_code: No
+
+
+
+XGBoost5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.73      0.72      1399
+           1       0.82      0.80      0.81      2124
+
+    accuracy                           0.77      3523
+   macro avg       0.76      0.76      0.76      3523
+weighted avg       0.77      0.77      0.77      3523
+
+
+XGBoost5 auc roc:
+
+0.861

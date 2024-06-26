@@ -1,0 +1,21 @@
+
+
+RandomForest7 - test - quota_OC_code: No
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.78      0.74       572
+           1       0.81      0.76      0.78       739
+
+    accuracy                           0.77      1311
+   macro avg       0.76      0.77      0.76      1311
+weighted avg       0.77      0.77      0.77      1311
+
+
+RandomForest7 auc roc:
+
+0.844

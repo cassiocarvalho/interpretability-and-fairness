@@ -1,0 +1,21 @@
+
+
+RandomForest5 - test2 - race_White_code: No
+
+
+
+RandomForest5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.63      0.65       279
+           1       0.79      0.81      0.80       472
+
+    accuracy                           0.75       751
+   macro avg       0.73      0.72      0.73       751
+weighted avg       0.74      0.75      0.75       751
+
+
+RandomForest5 auc roc:
+
+0.839

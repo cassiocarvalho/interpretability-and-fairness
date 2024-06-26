@@ -1,0 +1,21 @@
+
+
+XGBoost3 - agreement - race_Yellow_code: No
+
+
+
+XGBoost3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.77      0.38      0.51       523
+           1       0.84      0.97      0.90      1717
+
+    accuracy                           0.83      2240
+   macro avg       0.80      0.67      0.70      2240
+weighted avg       0.82      0.83      0.81      2240
+
+
+XGBoost3 auc roc:
+
+0.867

@@ -1,0 +1,21 @@
+
+
+XGBoost8 Report test2 set
+
+
+
+XGBoost8 classification_report. Disagreement. Explanation prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.31      0.18      0.23       561
+           1       0.33      0.50      0.40       452
+
+    accuracy                           0.33      1013
+   macro avg       0.32      0.34      0.32      1013
+weighted avg       0.32      0.33      0.31      1013
+
+
+XGBoost8 auc_roc. Disagreement. Explanation prediction: (without predict_proba())
+
+0.343

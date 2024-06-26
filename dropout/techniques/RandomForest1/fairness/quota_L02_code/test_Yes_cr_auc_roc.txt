@@ -1,0 +1,21 @@
+
+
+RandomForest1 - test - quota_L02_code: Yes
+
+
+
+RandomForest1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.66      0.66        87
+           1       0.78      0.79      0.79       138
+
+    accuracy                           0.74       225
+   macro avg       0.72      0.72      0.72       225
+weighted avg       0.74      0.74      0.74       225
+
+
+RandomForest1 auc roc:
+
+0.803

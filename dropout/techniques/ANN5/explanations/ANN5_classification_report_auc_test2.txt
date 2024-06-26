@@ -1,0 +1,21 @@
+
+
+ANN5 Report test2 set
+
+
+
+ANN5 classification_report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.84      0.73      1405
+           1       0.87      0.70      0.78      2133
+
+    accuracy                           0.76      3538
+   macro avg       0.76      0.77      0.76      3538
+weighted avg       0.78      0.76      0.76      3538
+
+
+ANN5 auc_roc:
+
+0.847

@@ -1,0 +1,21 @@
+
+
+RandomForest7 - disagreement - race_Prefer_not_to_declare_code: No
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.58      0.19      0.28       313
+           1       0.66      0.92      0.77       528
+
+    accuracy                           0.65       841
+   macro avg       0.62      0.55      0.52       841
+weighted avg       0.63      0.65      0.59       841
+
+
+RandomForest7 auc roc:
+
+0.646

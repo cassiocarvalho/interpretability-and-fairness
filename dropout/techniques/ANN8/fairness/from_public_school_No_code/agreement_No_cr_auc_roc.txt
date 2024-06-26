@@ -1,0 +1,21 @@
+
+
+ANN8 - agreement - from_public_school_No_code: No
+
+
+
+ANN8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      1.00      0.80       733
+           1       1.00      0.04      0.07       387
+
+    accuracy                           0.67      1120
+   macro avg       0.83      0.52      0.44      1120
+weighted avg       0.78      0.67      0.55      1120
+
+
+ANN8 auc roc:
+
+0.637

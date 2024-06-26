@@ -1,0 +1,21 @@
+
+
+RandomForest2 Report test2 set
+
+
+
+RandomForest2 classification_report. Explanations:
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.22      0.33      1405
+           1       0.65      0.94      0.77      2133
+
+    accuracy                           0.66      3538
+   macro avg       0.68      0.58      0.55      3538
+weighted avg       0.68      0.66      0.60      3538
+
+
+RandomForest2 auc_roc. Explanations: (without predict_proba())
+
+0.581

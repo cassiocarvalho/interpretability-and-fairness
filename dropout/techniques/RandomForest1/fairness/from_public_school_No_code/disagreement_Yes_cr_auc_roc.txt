@@ -1,0 +1,21 @@
+
+
+RandomForest1 - disagreement - from_public_school_No_code: Yes
+
+
+
+RandomForest1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.60      0.87      0.71       141
+           1       0.62      0.26      0.37       110
+
+    accuracy                           0.61       251
+   macro avg       0.61      0.57      0.54       251
+weighted avg       0.61      0.61      0.56       251
+
+
+RandomForest1 auc roc:
+
+0.655

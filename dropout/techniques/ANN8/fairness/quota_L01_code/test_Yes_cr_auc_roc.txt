@@ -1,0 +1,21 @@
+
+
+ANN8 - test - quota_L01_code: Yes
+
+
+
+ANN8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.73      0.73       208
+           1       0.74      0.74      0.74       221
+
+    accuracy                           0.73       429
+   macro avg       0.73      0.73      0.73       429
+weighted avg       0.73      0.73      0.73       429
+
+
+ANN8 auc roc:
+
+0.829

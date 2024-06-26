@@ -1,0 +1,21 @@
+
+
+ANN3 - disagreement - race_Mixed_race_code: Yes
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        46
+           1       0.77      1.00      0.87       155
+
+    accuracy                           0.77       201
+   macro avg       0.39      0.50      0.44       201
+weighted avg       0.59      0.77      0.67       201
+
+
+ANN3 auc roc:
+
+0.789

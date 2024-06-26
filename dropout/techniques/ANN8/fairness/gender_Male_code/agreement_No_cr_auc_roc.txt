@@ -1,0 +1,21 @@
+
+
+ANN8 - agreement - gender_Male_code: No
+
+
+
+ANN8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      1.00      0.83       696
+           1       1.00      0.03      0.06       302
+
+    accuracy                           0.71       998
+   macro avg       0.85      0.51      0.44       998
+weighted avg       0.79      0.71      0.59       998
+
+
+ANN8 auc roc:
+
+0.64

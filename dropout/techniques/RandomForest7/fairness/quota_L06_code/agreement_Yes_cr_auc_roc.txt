@@ -1,0 +1,21 @@
+
+
+RandomForest7 - agreement - quota_L06_code: Yes
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.91      0.80        65
+           1       0.93      0.76      0.84       101
+
+    accuracy                           0.82       166
+   macro avg       0.82      0.84      0.82       166
+weighted avg       0.84      0.82      0.82       166
+
+
+RandomForest7 auc roc:
+
+0.868

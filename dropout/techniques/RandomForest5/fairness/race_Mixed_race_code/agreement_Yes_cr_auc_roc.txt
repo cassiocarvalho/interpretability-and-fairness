@@ -1,0 +1,21 @@
+
+
+RandomForest5 - agreement - race_Mixed_race_code: Yes
+
+
+
+RandomForest5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.43      0.53        72
+           1       0.78      0.92      0.84       156
+
+    accuracy                           0.76       228
+   macro avg       0.74      0.67      0.69       228
+weighted avg       0.75      0.76      0.74       228
+
+
+RandomForest5 auc roc:
+
+0.828

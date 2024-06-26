@@ -1,0 +1,21 @@
+
+
+ANN7 - agreement - gender_Female_code: Yes
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      1.00      0.80       760
+           1       1.00      0.01      0.02       376
+
+    accuracy                           0.67      1136
+   macro avg       0.84      0.50      0.41      1136
+weighted avg       0.78      0.67      0.54      1136
+
+
+ANN7 auc roc:
+
+0.666

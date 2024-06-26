@@ -1,0 +1,21 @@
+
+
+XGBoost8 - agreement - race_Mixed_race_code: No
+
+
+
+XGBoost8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.73      0.74      0.74       755
+           1       0.87      0.86      0.87      1518
+
+    accuracy                           0.82      2273
+   macro avg       0.80      0.80      0.80      2273
+weighted avg       0.83      0.82      0.82      2273
+
+
+XGBoost8 auc roc:
+
+0.896

@@ -1,0 +1,21 @@
+
+
+ANN4 - disagreement - gender_Female_code: No
+
+
+
+ANN4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       115
+           1       0.86      1.00      0.93       715
+
+    accuracy                           0.86       830
+   macro avg       0.43      0.50      0.46       830
+weighted avg       0.74      0.86      0.80       830
+
+
+ANN4 auc roc:
+
+0.797

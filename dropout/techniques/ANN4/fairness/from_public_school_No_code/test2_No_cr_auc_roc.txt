@@ -1,0 +1,21 @@
+
+
+ANN4 - test2 - from_public_school_No_code: No
+
+
+
+ANN4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.80      0.71      1013
+           1       0.85      0.71      0.77      1585
+
+    accuracy                           0.75      2598
+   macro avg       0.74      0.75      0.74      2598
+weighted avg       0.77      0.75      0.75      2598
+
+
+ANN4 auc roc:
+
+0.829

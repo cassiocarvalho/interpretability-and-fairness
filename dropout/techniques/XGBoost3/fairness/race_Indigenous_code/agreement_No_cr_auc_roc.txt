@@ -1,0 +1,21 @@
+
+
+XGBoost3 - agreement - race_Indigenous_code: No
+
+
+
+XGBoost3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.77      0.39      0.51       524
+           1       0.84      0.97      0.90      1722
+
+    accuracy                           0.83      2246
+   macro avg       0.80      0.68      0.71      2246
+weighted avg       0.82      0.83      0.81      2246
+
+
+XGBoost3 auc roc:
+
+0.867

@@ -1,0 +1,21 @@
+
+
+ANN10 - test2 - quota_OC_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.78      0.72       571
+           1       0.81      0.70      0.75       742
+
+    accuracy                           0.74      1313
+   macro avg       0.74      0.74      0.74      1313
+weighted avg       0.75      0.74      0.74      1313
+
+
+ANN10 auc roc:
+
+0.818

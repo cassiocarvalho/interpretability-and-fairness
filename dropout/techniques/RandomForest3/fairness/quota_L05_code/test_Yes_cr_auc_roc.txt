@@ -1,0 +1,21 @@
+
+
+RandomForest3 - test - quota_L05_code: Yes
+
+
+
+RandomForest3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.85      0.78       210
+           1       0.84      0.70      0.77       240
+
+    accuracy                           0.77       450
+   macro avg       0.78      0.78      0.77       450
+weighted avg       0.78      0.77      0.77       450
+
+
+RandomForest3 auc roc:
+
+0.851

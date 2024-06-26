@@ -1,0 +1,21 @@
+
+
+ANN4 - test - gender_Male_code: No
+
+
+
+ANN4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.86      0.74       884
+           1       0.86      0.65      0.74      1142
+
+    accuracy                           0.74      2026
+   macro avg       0.76      0.76      0.74      2026
+weighted avg       0.77      0.74      0.74      2026
+
+
+ANN4 auc roc:
+
+0.843

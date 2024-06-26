@@ -1,0 +1,21 @@
+
+
+ANN6 - test2 - race_Mixed_race_code: No
+
+
+
+ANN6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.79      0.72      1281
+           1       0.84      0.73      0.78      1916
+
+    accuracy                           0.76      3197
+   macro avg       0.75      0.76      0.75      3197
+weighted avg       0.77      0.76      0.76      3197
+
+
+ANN6 auc roc:
+
+0.844

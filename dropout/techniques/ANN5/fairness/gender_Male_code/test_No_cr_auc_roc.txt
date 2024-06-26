@@ -1,0 +1,21 @@
+
+
+ANN5 - test - gender_Male_code: No
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.88      0.75       875
+           1       0.87      0.64      0.74      1133
+
+    accuracy                           0.75      2008
+   macro avg       0.76      0.76      0.75      2008
+weighted avg       0.78      0.75      0.74      2008
+
+
+ANN5 auc roc:
+
+0.837

@@ -1,0 +1,21 @@
+
+
+ANN5 - test - race_Indigenous_code: No
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.84      0.72      1405
+           1       0.86      0.68      0.76      2130
+
+    accuracy                           0.74      3535
+   macro avg       0.75      0.76      0.74      3535
+weighted avg       0.77      0.74      0.75      3535
+
+
+ANN5 auc roc:
+
+0.84

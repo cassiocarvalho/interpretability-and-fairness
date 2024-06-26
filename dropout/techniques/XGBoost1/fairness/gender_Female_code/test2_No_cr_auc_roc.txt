@@ -1,0 +1,21 @@
+
+
+XGBoost1 - test2 - gender_Female_code: No
+
+
+
+XGBoost1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.69      0.70      0.70       513
+           1       0.84      0.84      0.84       994
+
+    accuracy                           0.79      1507
+   macro avg       0.77      0.77      0.77      1507
+weighted avg       0.79      0.79      0.79      1507
+
+
+XGBoost1 auc roc:
+
+0.859

@@ -1,0 +1,21 @@
+
+
+RandomForest3 - disagreement - race_Black_code: No
+
+
+
+RandomForest3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.86      0.74       530
+           1       0.63      0.35      0.45       374
+
+    accuracy                           0.65       904
+   macro avg       0.64      0.60      0.60       904
+weighted avg       0.64      0.65      0.62       904
+
+
+RandomForest3 auc roc:
+
+0.681

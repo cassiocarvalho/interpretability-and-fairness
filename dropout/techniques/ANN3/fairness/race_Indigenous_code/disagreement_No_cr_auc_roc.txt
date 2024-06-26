@@ -1,0 +1,21 @@
+
+
+ANN3 - disagreement - race_Indigenous_code: No
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       263
+           1       0.85      1.00      0.92      1492
+
+    accuracy                           0.85      1755
+   macro avg       0.43      0.50      0.46      1755
+weighted avg       0.72      0.85      0.78      1755
+
+
+ANN3 auc roc:
+
+0.801

@@ -1,0 +1,21 @@
+
+
+ANN6 - agreement - gender_Female_code: No
+
+
+
+ANN6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      1.00      0.78       403
+           1       1.00      0.00      0.01       232
+
+    accuracy                           0.64       635
+   macro avg       0.82      0.50      0.39       635
+weighted avg       0.77      0.64      0.50       635
+
+
+ANN6 auc roc:
+
+0.67

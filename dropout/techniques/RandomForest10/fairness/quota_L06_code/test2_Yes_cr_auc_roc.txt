@@ -1,0 +1,21 @@
+
+
+RandomForest10 - test2 - quota_L06_code: Yes
+
+
+
+RandomForest10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.60      0.68      0.64        72
+           1       0.80      0.74      0.77       127
+
+    accuracy                           0.72       199
+   macro avg       0.70      0.71      0.70       199
+weighted avg       0.73      0.72      0.72       199
+
+
+RandomForest10 auc roc:
+
+0.812

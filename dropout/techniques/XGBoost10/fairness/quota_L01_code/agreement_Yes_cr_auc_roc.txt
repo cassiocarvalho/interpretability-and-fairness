@@ -1,0 +1,21 @@
+
+
+XGBoost10 - agreement - quota_L01_code: Yes
+
+
+
+XGBoost10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.74      0.94      0.83       158
+           1       0.89      0.60      0.72       130
+
+    accuracy                           0.78       288
+   macro avg       0.81      0.77      0.77       288
+weighted avg       0.81      0.78      0.78       288
+
+
+XGBoost10 auc roc:
+
+0.839

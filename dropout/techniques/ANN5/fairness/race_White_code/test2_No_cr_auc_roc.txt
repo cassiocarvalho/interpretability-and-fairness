@@ -1,0 +1,21 @@
+
+
+ANN5 - test2 - race_White_code: No
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.80      0.72       279
+           1       0.86      0.74      0.80       472
+
+    accuracy                           0.76       751
+   macro avg       0.76      0.77      0.76       751
+weighted avg       0.78      0.76      0.77       751
+
+
+ANN5 auc roc:
+
+0.834

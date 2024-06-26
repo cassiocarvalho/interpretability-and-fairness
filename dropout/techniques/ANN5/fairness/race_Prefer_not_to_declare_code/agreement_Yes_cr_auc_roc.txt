@@ -1,0 +1,21 @@
+
+
+ANN5 - agreement - race_Prefer_not_to_declare_code: Yes
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      1.00      0.78        25
+           1       1.00      0.26      0.42        19
+
+    accuracy                           0.68        44
+   macro avg       0.82      0.63      0.60        44
+weighted avg       0.80      0.68      0.62        44
+
+
+ANN5 auc roc:
+
+0.657

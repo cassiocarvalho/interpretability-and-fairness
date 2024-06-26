@@ -1,0 +1,21 @@
+
+
+RandomForest4 Report test2 set
+
+
+
+RandomForest4 classification_report. Disagreement. Explanation prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.37      0.75      0.49       368
+           1       0.37      0.10      0.16       534
+
+    accuracy                           0.37       902
+   macro avg       0.37      0.43      0.32       902
+weighted avg       0.37      0.37      0.29       902
+
+
+RandomForest4 auc_roc. Disagreement. Explanation prediction: (without predict_proba())
+
+0.426

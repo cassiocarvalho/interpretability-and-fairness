@@ -1,0 +1,21 @@
+
+
+ANN10 - test - race_Mixed_race_code: Yes
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.59      0.63       141
+           1       0.74      0.80      0.77       204
+
+    accuracy                           0.72       345
+   macro avg       0.71      0.70      0.70       345
+weighted avg       0.71      0.72      0.71       345
+
+
+ANN10 auc roc:
+
+0.789

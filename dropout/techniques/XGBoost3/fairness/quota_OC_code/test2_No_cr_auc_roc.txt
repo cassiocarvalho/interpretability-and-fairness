@@ -1,0 +1,21 @@
+
+
+XGBoost3 - test2 - quota_OC_code: No
+
+
+
+XGBoost3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.77      0.73       568
+           1       0.80      0.75      0.78       732
+
+    accuracy                           0.76      1300
+   macro avg       0.75      0.76      0.76      1300
+weighted avg       0.76      0.76      0.76      1300
+
+
+XGBoost3 auc roc:
+
+0.849

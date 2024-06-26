@@ -1,0 +1,21 @@
+
+
+RandomForest10 - agreement - quota_L01_code: Yes
+
+
+
+RandomForest10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.74      0.82      0.78       138
+           1       0.85      0.78      0.82       181
+
+    accuracy                           0.80       319
+   macro avg       0.80      0.80      0.80       319
+weighted avg       0.80      0.80      0.80       319
+
+
+RandomForest10 auc roc:
+
+0.872

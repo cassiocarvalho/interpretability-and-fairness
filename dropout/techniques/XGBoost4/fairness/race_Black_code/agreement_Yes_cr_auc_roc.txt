@@ -1,0 +1,21 @@
+
+
+XGBoost4 - agreement - race_Black_code: Yes
+
+
+
+XGBoost4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.62      0.66        55
+           1       0.85      0.90      0.87       134
+
+    accuracy                           0.81       189
+   macro avg       0.78      0.76      0.77       189
+weighted avg       0.81      0.81      0.81       189
+
+
+XGBoost4 auc roc:
+
+0.909

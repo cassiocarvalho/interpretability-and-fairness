@@ -1,0 +1,21 @@
+
+
+RandomForest10 - test2 - race_Yellow_code: Yes
+
+
+
+RandomForest10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         4
+           1       0.67      0.80      0.73        10
+
+    accuracy                           0.57        14
+   macro avg       0.33      0.40      0.36        14
+weighted avg       0.48      0.57      0.52        14
+
+
+RandomForest10 auc roc:
+
+0.7

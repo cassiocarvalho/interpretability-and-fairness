@@ -1,0 +1,21 @@
+
+
+ANN2 - test - race_Indigenous_code: No
+
+
+
+ANN2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.75      0.70      1403
+           1       0.82      0.74      0.78      2128
+
+    accuracy                           0.75      3531
+   macro avg       0.74      0.75      0.74      3531
+weighted avg       0.76      0.75      0.75      3531
+
+
+ANN2 auc roc:
+
+0.838

@@ -1,0 +1,21 @@
+
+
+ANN9 - agreement - quota_OC_code: No
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.97      0.79       472
+           1       0.94      0.51      0.66       455
+
+    accuracy                           0.74       927
+   macro avg       0.81      0.74      0.73       927
+weighted avg       0.80      0.74      0.73       927
+
+
+ANN9 auc roc:
+
+0.82

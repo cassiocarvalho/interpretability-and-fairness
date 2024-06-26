@@ -1,0 +1,21 @@
+
+
+XGBoost9 - agreement - quota_OC_code: No
+
+
+
+XGBoost9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.78      0.66      0.71       296
+           1       0.84      0.91      0.87       608
+
+    accuracy                           0.83       904
+   macro avg       0.81      0.78      0.79       904
+weighted avg       0.82      0.83      0.82       904
+
+
+XGBoost9 auc roc:
+
+0.883

@@ -1,0 +1,21 @@
+
+
+XGBoost10 - test2 - race_Black_code: Yes
+
+
+
+XGBoost10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.57      0.62      0.60        82
+           1       0.84      0.81      0.82       197
+
+    accuracy                           0.75       279
+   macro avg       0.70      0.71      0.71       279
+weighted avg       0.76      0.75      0.76       279
+
+
+XGBoost10 auc roc:
+
+0.844

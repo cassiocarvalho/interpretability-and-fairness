@@ -1,0 +1,21 @@
+
+
+XGBoost8 - test - race_Yellow_code: No
+
+
+
+XGBoost8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.76      0.73      1398
+           1       0.84      0.79      0.81      2125
+
+    accuracy                           0.78      3523
+   macro avg       0.77      0.78      0.77      3523
+weighted avg       0.79      0.78      0.78      3523
+
+
+XGBoost8 auc roc:
+
+0.866

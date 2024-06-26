@@ -1,0 +1,21 @@
+
+
+RandomForest4 - test - quota_L02_code: Yes
+
+
+
+RandomForest4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.63      0.66        81
+           1       0.82      0.86      0.84       156
+
+    accuracy                           0.78       237
+   macro avg       0.76      0.74      0.75       237
+weighted avg       0.78      0.78      0.78       237
+
+
+RandomForest4 auc roc:
+
+0.873

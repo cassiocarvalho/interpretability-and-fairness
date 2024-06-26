@@ -1,0 +1,21 @@
+
+
+ANN2 Report test2 set
+
+
+
+ANN2 classification_report. Disagreement. Model prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.12      0.00      0.01       317
+           1       0.82      1.00      0.90      1444
+
+    accuracy                           0.82      1761
+   macro avg       0.47      0.50      0.45      1761
+weighted avg       0.69      0.82      0.74      1761
+
+
+ANN2 auc_roc. Disagreement. Model prediction:
+
+0.798

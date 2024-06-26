@@ -1,0 +1,21 @@
+
+
+RandomForest9 - test2 - race_Indigenous_code: No
+
+
+
+RandomForest9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.74      0.72      1405
+           1       0.82      0.79      0.80      2131
+
+    accuracy                           0.77      3536
+   macro avg       0.76      0.76      0.76      3536
+weighted avg       0.77      0.77      0.77      3536
+
+
+RandomForest9 auc roc:
+
+0.851

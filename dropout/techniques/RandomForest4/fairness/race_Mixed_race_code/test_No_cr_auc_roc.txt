@@ -1,0 +1,21 @@
+
+
+RandomForest4 - test - race_Mixed_race_code: No
+
+
+
+RandomForest4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.75      0.73      1254
+           1       0.83      0.79      0.81      1895
+
+    accuracy                           0.78      3149
+   macro avg       0.77      0.77      0.77      3149
+weighted avg       0.78      0.78      0.78      3149
+
+
+RandomForest4 auc roc:
+
+0.863

@@ -1,0 +1,21 @@
+
+
+ANN1 - agreement - race_Mixed_race_code: Yes
+
+
+
+ANN1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.55      0.41      0.47        41
+           1       0.84      0.90      0.87       144
+
+    accuracy                           0.79       185
+   macro avg       0.70      0.66      0.67       185
+weighted avg       0.78      0.79      0.78       185
+
+
+ANN1 auc roc:
+
+0.811

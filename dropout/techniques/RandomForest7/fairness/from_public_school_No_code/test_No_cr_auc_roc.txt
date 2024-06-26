@@ -1,0 +1,21 @@
+
+
+RandomForest7 - test - from_public_school_No_code: No
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.74      0.71       997
+           1       0.83      0.79      0.81      1601
+
+    accuracy                           0.77      2598
+   macro avg       0.76      0.76      0.76      2598
+weighted avg       0.77      0.77      0.77      2598
+
+
+RandomForest7 auc roc:
+
+0.844

@@ -1,0 +1,21 @@
+
+
+ANN8 - disagreement - gender_Female_code: No
+
+
+
+ANN8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.01      0.01       168
+           1       0.83      1.00      0.91       803
+
+    accuracy                           0.83       971
+   macro avg       0.91      0.50      0.46       971
+weighted avg       0.86      0.83      0.75       971
+
+
+ANN8 auc roc:
+
+0.812

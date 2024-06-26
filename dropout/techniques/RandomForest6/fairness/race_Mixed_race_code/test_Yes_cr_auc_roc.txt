@@ -1,0 +1,21 @@
+
+
+RandomForest6 - test - race_Mixed_race_code: Yes
+
+
+
+RandomForest6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.67      0.67       137
+           1       0.80      0.81      0.81       228
+
+    accuracy                           0.76       365
+   macro avg       0.74      0.74      0.74       365
+weighted avg       0.76      0.76      0.76       365
+
+
+RandomForest6 auc roc:
+
+0.826

@@ -1,0 +1,21 @@
+
+
+ANN9 - test - race_Black_code: Yes
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.54      0.71      0.61        93
+           1       0.84      0.72      0.77       197
+
+    accuracy                           0.71       290
+   macro avg       0.69      0.71      0.69       290
+weighted avg       0.74      0.71      0.72       290
+
+
+ANN9 auc roc:
+
+0.804

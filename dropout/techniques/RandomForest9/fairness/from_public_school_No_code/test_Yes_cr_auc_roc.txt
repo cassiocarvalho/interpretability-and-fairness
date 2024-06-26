@@ -1,0 +1,21 @@
+
+
+RandomForest9 - test - from_public_school_No_code: Yes
+
+
+
+RandomForest9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.78      0.74       406
+           1       0.82      0.76      0.79       550
+
+    accuracy                           0.77       956
+   macro avg       0.76      0.77      0.76       956
+weighted avg       0.77      0.77      0.77       956
+
+
+RandomForest9 auc roc:
+
+0.855

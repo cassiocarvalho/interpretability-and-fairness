@@ -1,0 +1,21 @@
+
+
+RandomForest2 - agreement - race_Indigenous_code: No
+
+
+
+RandomForest2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.77      0.46      0.57       600
+           1       0.83      0.95      0.89      1716
+
+    accuracy                           0.82      2316
+   macro avg       0.80      0.71      0.73      2316
+weighted avg       0.82      0.82      0.81      2316
+
+
+RandomForest2 auc roc:
+
+0.862

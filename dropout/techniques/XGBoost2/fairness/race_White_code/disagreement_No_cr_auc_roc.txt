@@ -1,0 +1,21 @@
+
+
+XGBoost2 - disagreement - race_White_code: No
+
+
+
+XGBoost2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.99      0.78       150
+           1       0.50      0.02      0.05        84
+
+    accuracy                           0.64       234
+   macro avg       0.57      0.51      0.41       234
+weighted avg       0.59      0.64      0.52       234
+
+
+XGBoost2 auc roc:
+
+0.705

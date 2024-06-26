@@ -1,0 +1,21 @@
+
+
+RandomForest5 - disagreement - gender_Male_code: Yes
+
+
+
+RandomForest5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.62      0.87      0.72       231
+           1       0.59      0.27      0.37       168
+
+    accuracy                           0.61       399
+   macro avg       0.61      0.57      0.55       399
+weighted avg       0.61      0.61      0.57       399
+
+
+RandomForest5 auc roc:
+
+0.643

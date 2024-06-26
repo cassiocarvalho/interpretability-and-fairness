@@ -1,0 +1,21 @@
+
+
+RandomForest3 - test - quota_OC_code: No
+
+
+
+RandomForest3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.78      0.75       590
+           1       0.81      0.75      0.78       749
+
+    accuracy                           0.76      1339
+   macro avg       0.76      0.77      0.76      1339
+weighted avg       0.77      0.76      0.77      1339
+
+
+RandomForest3 auc roc:
+
+0.843

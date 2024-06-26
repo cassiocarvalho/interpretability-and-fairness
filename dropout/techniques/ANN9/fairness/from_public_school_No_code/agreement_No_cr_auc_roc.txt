@@ -1,0 +1,21 @@
+
+
+ANN9 - agreement - from_public_school_No_code: No
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.98      0.79       818
+           1       0.96      0.52      0.68       861
+
+    accuracy                           0.74      1679
+   macro avg       0.81      0.75      0.73      1679
+weighted avg       0.81      0.74      0.73      1679
+
+
+ANN9 auc roc:
+
+0.812

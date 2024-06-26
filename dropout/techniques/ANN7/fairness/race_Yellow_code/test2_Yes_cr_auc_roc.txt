@@ -1,0 +1,21 @@
+
+
+ANN7 - test2 - race_Yellow_code: Yes
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.43      1.00      0.60         3
+           1       1.00      0.56      0.71         9
+
+    accuracy                           0.67        12
+   macro avg       0.71      0.78      0.66        12
+weighted avg       0.86      0.67      0.69        12
+
+
+ANN7 auc roc:
+
+0.778

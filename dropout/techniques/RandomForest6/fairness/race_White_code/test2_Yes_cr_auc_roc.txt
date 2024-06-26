@@ -1,0 +1,21 @@
+
+
+RandomForest6 - test2 - race_White_code: Yes
+
+
+
+RandomForest6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.74      0.72      1136
+           1       0.82      0.78      0.80      1639
+
+    accuracy                           0.77      2775
+   macro avg       0.76      0.76      0.76      2775
+weighted avg       0.77      0.77      0.77      2775
+
+
+RandomForest6 auc roc:
+
+0.856

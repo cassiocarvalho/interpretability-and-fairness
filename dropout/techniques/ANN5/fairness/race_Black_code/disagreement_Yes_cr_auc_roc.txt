@@ -1,0 +1,21 @@
+
+
+ANN5 - disagreement - race_Black_code: Yes
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        25
+           1       0.84      1.00      0.92       135
+
+    accuracy                           0.84       160
+   macro avg       0.42      0.50      0.46       160
+weighted avg       0.71      0.84      0.77       160
+
+
+ANN5 auc roc:
+
+0.748

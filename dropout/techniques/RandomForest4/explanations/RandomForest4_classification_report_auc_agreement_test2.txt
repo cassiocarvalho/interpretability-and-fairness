@@ -1,0 +1,21 @@
+
+
+RandomForest4 Report test2 set
+
+
+
+RandomForest4 classification_report. Agreement:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.88      0.78      1037
+           1       0.90      0.75      0.82      1599
+
+    accuracy                           0.80      2636
+   macro avg       0.80      0.82      0.80      2636
+weighted avg       0.82      0.80      0.81      2636
+
+
+RandomForest4 auc_roc. Agreement:
+
+0.892

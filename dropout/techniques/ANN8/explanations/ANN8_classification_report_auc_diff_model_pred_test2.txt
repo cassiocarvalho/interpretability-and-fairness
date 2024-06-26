@@ -1,0 +1,21 @@
+
+
+ANN8 Report test2 set
+
+
+
+ANN8 classification_report. Disagreement. Model prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.50      0.00      0.01       347
+           1       0.82      1.00      0.90      1629
+
+    accuracy                           0.82      1976
+   macro avg       0.66      0.50      0.45      1976
+weighted avg       0.77      0.82      0.75      1976
+
+
+ANN8 auc_roc. Disagreement. Model prediction:
+
+0.8

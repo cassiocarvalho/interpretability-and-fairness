@@ -1,0 +1,21 @@
+
+
+ANN10 - test2 - race_Prefer_not_to_declare_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.78      0.72      1371
+           1       0.84      0.74      0.78      2065
+
+    accuracy                           0.75      3436
+   macro avg       0.75      0.76      0.75      3436
+weighted avg       0.77      0.75      0.76      3436
+
+
+ANN10 auc roc:
+
+0.836

@@ -1,0 +1,21 @@
+
+
+ANN3 - agreement - quota_L06_code: No
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      1.00      0.79      1079
+           1       0.88      0.05      0.09       603
+
+    accuracy                           0.66      1682
+   macro avg       0.77      0.52      0.44      1682
+weighted avg       0.73      0.66      0.54      1682
+
+
+ANN3 auc roc:
+
+0.68

@@ -1,0 +1,21 @@
+
+
+XGBoost3 Report test2 set
+
+
+
+XGBoost3 classification_report. Explanations:
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.16      0.26      1405
+           1       0.63      0.96      0.76      2133
+
+    accuracy                           0.64      3538
+   macro avg       0.67      0.56      0.51      3538
+weighted avg       0.67      0.64      0.56      3538
+
+
+XGBoost3 auc_roc. Explanations: (without predict_proba())
+
+0.559

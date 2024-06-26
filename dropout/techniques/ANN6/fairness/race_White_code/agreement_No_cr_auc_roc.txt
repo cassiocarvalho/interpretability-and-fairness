@@ -1,0 +1,21 @@
+
+
+ANN6 - agreement - race_White_code: No
+
+
+
+ANN6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.60      1.00      0.75       198
+           1       1.00      0.01      0.01       135
+
+    accuracy                           0.60       333
+   macro avg       0.80      0.50      0.38       333
+weighted avg       0.76      0.60      0.45       333
+
+
+ANN6 auc roc:
+
+0.638

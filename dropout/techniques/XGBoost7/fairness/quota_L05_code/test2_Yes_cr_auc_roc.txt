@@ -1,0 +1,21 @@
+
+
+XGBoost7 - test2 - quota_L05_code: Yes
+
+
+
+XGBoost7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.78      0.85      0.81       239
+           1       0.83      0.76      0.79       238
+
+    accuracy                           0.80       477
+   macro avg       0.81      0.80      0.80       477
+weighted avg       0.81      0.80      0.80       477
+
+
+XGBoost7 auc roc:
+
+0.859

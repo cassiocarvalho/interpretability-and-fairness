@@ -1,0 +1,21 @@
+
+
+XGBoost6 - test2 - gender_Male_code: No
+
+
+
+XGBoost6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.79      0.75       874
+           1       0.83      0.76      0.79      1133
+
+    accuracy                           0.77      2007
+   macro avg       0.77      0.78      0.77      2007
+weighted avg       0.78      0.77      0.78      2007
+
+
+XGBoost6 auc roc:
+
+0.86

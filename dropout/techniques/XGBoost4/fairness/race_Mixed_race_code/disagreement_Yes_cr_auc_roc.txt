@@ -1,0 +1,21 @@
+
+
+XGBoost4 - disagreement - race_Mixed_race_code: Yes
+
+
+
+XGBoost4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.25      0.37        40
+           1       0.72      0.95      0.82        81
+
+    accuracy                           0.72       121
+   macro avg       0.72      0.60      0.59       121
+weighted avg       0.72      0.72      0.67       121
+
+
+XGBoost4 auc roc:
+
+0.692

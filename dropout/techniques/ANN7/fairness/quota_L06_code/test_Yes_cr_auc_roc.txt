@@ -1,0 +1,21 @@
+
+
+ANN7 - test - quota_L06_code: Yes
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.78      0.74        83
+           1       0.85      0.78      0.81       127
+
+    accuracy                           0.78       210
+   macro avg       0.77      0.78      0.78       210
+weighted avg       0.79      0.78      0.78       210
+
+
+ANN7 auc roc:
+
+0.847

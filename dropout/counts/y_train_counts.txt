@@ -1,0 +1,6 @@
+
+Total samples from the training set before SMOTE balancing. Class 0 (Graduated) and 1 (Dropout)
+target
+1    6398
+0    4215
+Name: count, dtype: int64

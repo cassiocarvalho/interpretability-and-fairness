@@ -1,0 +1,21 @@
+
+
+RandomForest2 - disagreement - race_Yellow_code: No
+
+
+
+RandomForest2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.96      0.79       800
+           1       0.56      0.09      0.16       412
+
+    accuracy                           0.67      1212
+   macro avg       0.62      0.53      0.48      1212
+weighted avg       0.63      0.67      0.58      1212
+
+
+RandomForest2 auc roc:
+
+0.653

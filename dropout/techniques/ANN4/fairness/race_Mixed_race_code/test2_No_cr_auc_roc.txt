@@ -1,0 +1,21 @@
+
+
+ANN4 - test2 - race_Mixed_race_code: No
+
+
+
+ANN4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.82      0.73      1270
+           1       0.86      0.71      0.77      1902
+
+    accuracy                           0.75      3172
+   macro avg       0.75      0.76      0.75      3172
+weighted avg       0.77      0.75      0.76      3172
+
+
+ANN4 auc roc:
+
+0.842

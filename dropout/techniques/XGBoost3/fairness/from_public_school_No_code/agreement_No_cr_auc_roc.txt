@@ -1,0 +1,21 @@
+
+
+XGBoost3 - agreement - from_public_school_No_code: No
+
+
+
+XGBoost3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.75      0.37      0.50       403
+           1       0.83      0.96      0.89      1297
+
+    accuracy                           0.82      1700
+   macro avg       0.79      0.67      0.69      1700
+weighted avg       0.81      0.82      0.80      1700
+
+
+XGBoost3 auc roc:
+
+0.863

@@ -1,0 +1,21 @@
+
+
+ANN7 - test2 - from_public_school_Yes_code: Yes
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.81      0.71      1016
+           1       0.85      0.71      0.77      1594
+
+    accuracy                           0.75      2610
+   macro avg       0.75      0.76      0.74      2610
+weighted avg       0.77      0.75      0.75      2610
+
+
+ANN7 auc roc:
+
+0.833

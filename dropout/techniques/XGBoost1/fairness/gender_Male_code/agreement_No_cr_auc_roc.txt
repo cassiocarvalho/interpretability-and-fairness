@@ -1,0 +1,21 @@
+
+
+XGBoost1 - agreement - gender_Male_code: No
+
+
+
+XGBoost1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.81      0.60      0.69       410
+           1       0.84      0.94      0.88       898
+
+    accuracy                           0.83      1308
+   macro avg       0.83      0.77      0.79      1308
+weighted avg       0.83      0.83      0.82      1308
+
+
+XGBoost1 auc roc:
+
+0.886

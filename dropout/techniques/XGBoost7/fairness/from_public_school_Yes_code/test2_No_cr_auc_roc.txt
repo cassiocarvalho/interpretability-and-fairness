@@ -1,0 +1,21 @@
+
+
+XGBoost7 - test2 - from_public_school_Yes_code: No
+
+
+
+XGBoost7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.79      0.75       389
+           1       0.83      0.77      0.80       539
+
+    accuracy                           0.78       928
+   macro avg       0.77      0.78      0.77       928
+weighted avg       0.78      0.78      0.78       928
+
+
+XGBoost7 auc roc:
+
+0.873

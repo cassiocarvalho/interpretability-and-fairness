@@ -1,0 +1,21 @@
+
+
+ANN8 - disagreement - race_Black_code: No
+
+
+
+ANN8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.50      0.00      0.01       317
+           1       0.82      1.00      0.90      1481
+
+    accuracy                           0.82      1798
+   macro avg       0.66      0.50      0.45      1798
+weighted avg       0.77      0.82      0.75      1798
+
+
+ANN8 auc roc:
+
+0.805

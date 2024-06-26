@@ -1,0 +1,21 @@
+
+
+ANN5 - agreement - gender_Male_code: Yes
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.62      1.00      0.76       419
+           1       0.97      0.23      0.37       335
+
+    accuracy                           0.66       754
+   macro avg       0.80      0.61      0.57       754
+weighted avg       0.78      0.66      0.59       754
+
+
+ANN5 auc roc:
+
+0.745

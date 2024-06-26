@@ -1,0 +1,21 @@
+
+
+ANN5 - agreement - quota_L06_code: Yes
+
+
+
+ANN5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.99      0.83        83
+           1       0.92      0.25      0.39        44
+
+    accuracy                           0.73       127
+   macro avg       0.81      0.62      0.61       127
+weighted avg       0.78      0.73      0.68       127
+
+
+ANN5 auc roc:
+
+0.795

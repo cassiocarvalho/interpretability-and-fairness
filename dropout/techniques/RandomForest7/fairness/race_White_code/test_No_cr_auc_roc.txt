@@ -1,0 +1,21 @@
+
+
+RandomForest7 - test - race_White_code: No
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.67      0.68       293
+           1       0.80      0.82      0.81       468
+
+    accuracy                           0.76       761
+   macro avg       0.75      0.74      0.75       761
+weighted avg       0.76      0.76      0.76       761
+
+
+RandomForest7 auc roc:
+
+0.846

@@ -1,0 +1,21 @@
+
+
+ANN4 - test - race_Indigenous_code: No
+
+
+
+ANN4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.84      0.73      1403
+           1       0.87      0.71      0.78      2132
+
+    accuracy                           0.76      3535
+   macro avg       0.76      0.77      0.76      3535
+weighted avg       0.78      0.76      0.76      3535
+
+
+ANN4 auc roc:
+
+0.849

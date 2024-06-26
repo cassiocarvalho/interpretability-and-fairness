@@ -1,0 +1,21 @@
+
+
+ANN3 - test - gender_Female_code: No
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.62      0.78      0.69       522
+           1       0.86      0.74      0.80       971
+
+    accuracy                           0.75      1493
+   macro avg       0.74      0.76      0.74      1493
+weighted avg       0.78      0.75      0.76      1493
+
+
+ANN3 auc roc:
+
+0.833

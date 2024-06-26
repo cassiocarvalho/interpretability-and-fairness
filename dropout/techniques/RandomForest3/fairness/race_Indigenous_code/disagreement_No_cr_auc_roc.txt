@@ -1,0 +1,21 @@
+
+
+RandomForest3 - disagreement - race_Indigenous_code: No
+
+
+
+RandomForest3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.66      0.86      0.75       570
+           1       0.65      0.36      0.46       401
+
+    accuracy                           0.65       971
+   macro avg       0.65      0.61      0.60       971
+weighted avg       0.65      0.65      0.63       971
+
+
+RandomForest3 auc roc:
+
+0.689

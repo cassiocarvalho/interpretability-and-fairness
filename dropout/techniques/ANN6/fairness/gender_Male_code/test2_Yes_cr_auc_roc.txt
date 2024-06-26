@@ -1,0 +1,21 @@
+
+
+ANN6 - test2 - gender_Male_code: Yes
+
+
+
+ANN6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.76      0.69       531
+           1       0.86      0.77      0.81      1000
+
+    accuracy                           0.77      1531
+   macro avg       0.75      0.76      0.75      1531
+weighted avg       0.78      0.77      0.77      1531
+
+
+ANN6 auc roc:
+
+0.849

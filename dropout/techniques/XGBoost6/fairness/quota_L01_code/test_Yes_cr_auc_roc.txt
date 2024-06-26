@@ -1,0 +1,21 @@
+
+
+XGBoost6 - test - quota_L01_code: Yes
+
+
+
+XGBoost6 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.75      0.76      0.76       208
+           1       0.78      0.76      0.77       223
+
+    accuracy                           0.76       431
+   macro avg       0.76      0.76      0.76       431
+weighted avg       0.76      0.76      0.76       431
+
+
+XGBoost6 auc roc:
+
+0.834

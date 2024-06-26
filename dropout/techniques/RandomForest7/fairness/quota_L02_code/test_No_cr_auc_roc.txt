@@ -1,0 +1,21 @@
+
+
+RandomForest7 - test - quota_L02_code: No
+
+
+
+RandomForest7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.77      0.73      1313
+           1       0.84      0.78      0.81      2012
+
+    accuracy                           0.78      3325
+   macro avg       0.77      0.77      0.77      3325
+weighted avg       0.78      0.78      0.78      3325
+
+
+RandomForest7 auc roc:
+
+0.851

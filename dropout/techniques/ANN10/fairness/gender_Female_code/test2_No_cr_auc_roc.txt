@@ -1,0 +1,21 @@
+
+
+ANN10 - test2 - gender_Female_code: No
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.64      0.73      0.68       528
+           1       0.85      0.79      0.82      1007
+
+    accuracy                           0.77      1535
+   macro avg       0.74      0.76      0.75      1535
+weighted avg       0.78      0.77      0.77      1535
+
+
+ANN10 auc roc:
+
+0.84

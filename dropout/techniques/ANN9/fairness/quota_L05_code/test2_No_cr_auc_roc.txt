@@ -1,0 +1,21 @@
+
+
+ANN9 - test2 - quota_L05_code: No
+
+
+
+ANN9 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.65      0.79      0.71      1190
+           1       0.84      0.73      0.79      1877
+
+    accuracy                           0.75      3067
+   macro avg       0.75      0.76      0.75      3067
+weighted avg       0.77      0.75      0.76      3067
+
+
+ANN9 auc roc:
+
+0.832

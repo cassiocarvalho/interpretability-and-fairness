@@ -1,0 +1,21 @@
+
+
+RandomForest8 Report test2 set
+
+
+
+RandomForest8 classification_report. Disagreement. Model prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.63      0.68      0.65       443
+           1       0.66      0.61      0.64       452
+
+    accuracy                           0.64       895
+   macro avg       0.65      0.65      0.64       895
+weighted avg       0.65      0.64      0.64       895
+
+
+RandomForest8 auc_roc. Disagreement. Model prediction:
+
+0.709

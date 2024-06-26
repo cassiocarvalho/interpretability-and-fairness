@@ -1,0 +1,21 @@
+
+
+ANN7 - disagreement - race_White_code: No
+
+
+
+ANN7 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        85
+           1       0.81      1.00      0.90       364
+
+    accuracy                           0.81       449
+   macro avg       0.41      0.50      0.45       449
+weighted avg       0.66      0.81      0.73       449
+
+
+ANN7 auc roc:
+
+0.792

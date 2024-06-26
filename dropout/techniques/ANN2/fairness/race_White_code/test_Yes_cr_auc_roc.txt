@@ -1,0 +1,21 @@
+
+
+ANN2 - test - race_White_code: Yes
+
+
+
+ANN2 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.77      0.72      1134
+           1       0.82      0.74      0.78      1632
+
+    accuracy                           0.75      2766
+   macro avg       0.75      0.76      0.75      2766
+weighted avg       0.76      0.75      0.76      2766
+
+
+ANN2 auc roc:
+
+0.841

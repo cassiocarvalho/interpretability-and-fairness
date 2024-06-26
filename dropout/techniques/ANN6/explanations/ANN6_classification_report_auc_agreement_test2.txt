@@ -1,0 +1,21 @@
+
+
+ANN6 Report test2 set
+
+
+
+ANN6 classification_report. Agreement:
+
+              precision    recall  f1-score   support
+
+           0       0.65      1.00      0.79      1111
+           1       1.00      0.01      0.01       594
+
+    accuracy                           0.65      1705
+   macro avg       0.83      0.50      0.40      1705
+weighted avg       0.77      0.65      0.52      1705
+
+
+ANN6 auc_roc. Agreement:
+
+0.661

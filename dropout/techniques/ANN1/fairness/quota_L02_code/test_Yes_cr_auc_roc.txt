@@ -1,0 +1,21 @@
+
+
+ANN1 - test - quota_L02_code: Yes
+
+
+
+ANN1 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.59      0.75      0.66        87
+           1       0.81      0.67      0.74       138
+
+    accuracy                           0.70       225
+   macro avg       0.70      0.71      0.70       225
+weighted avg       0.72      0.70      0.71       225
+
+
+ANN1 auc roc:
+
+0.776

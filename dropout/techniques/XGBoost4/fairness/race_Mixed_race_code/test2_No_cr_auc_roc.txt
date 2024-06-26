@@ -1,0 +1,21 @@
+
+
+XGBoost4 - test2 - race_Mixed_race_code: No
+
+
+
+XGBoost4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.71      0.73      0.72      1270
+           1       0.82      0.80      0.81      1902
+
+    accuracy                           0.77      3172
+   macro avg       0.76      0.77      0.77      3172
+weighted avg       0.78      0.77      0.77      3172
+
+
+XGBoost4 auc roc:
+
+0.866

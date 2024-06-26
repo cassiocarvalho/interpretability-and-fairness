@@ -1,0 +1,21 @@
+
+
+ANN3 - agreement - race_Yellow_code: Yes
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.40      1.00      0.57         2
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.40         5
+   macro avg       0.20      0.50      0.29         5
+weighted avg       0.16      0.40      0.23         5
+
+
+ANN3 auc roc:
+
+1.0

@@ -1,0 +1,21 @@
+
+
+ANN3 - disagreement - gender_Female_code: Yes
+
+
+
+ANN3 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       144
+           1       0.84      1.00      0.91       775
+
+    accuracy                           0.84       919
+   macro avg       0.42      0.50      0.46       919
+weighted avg       0.71      0.84      0.77       919
+
+
+ANN3 auc roc:
+
+0.786

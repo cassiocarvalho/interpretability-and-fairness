@@ -1,0 +1,21 @@
+
+
+ANN5 Report test2 set
+
+
+
+ANN5 classification_report. Disagreement. Explanation prediction:
+
+              precision    recall  f1-score   support
+
+           0       0.14      0.99      0.25       219
+           1       0.25      0.00      0.00      1314
+
+    accuracy                           0.14      1533
+   macro avg       0.20      0.49      0.12      1533
+weighted avg       0.23      0.14      0.04      1533
+
+
+ANN5 auc_roc. Disagreement. Explanation prediction: (without predict_proba())
+
+0.494

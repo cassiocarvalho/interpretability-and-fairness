@@ -1,0 +1,21 @@
+
+
+RandomForest5 - test - from_public_school_Yes_code: Yes
+
+
+
+RandomForest5 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.68      0.69      0.68      1011
+           1       0.80      0.79      0.80      1591
+
+    accuracy                           0.75      2602
+   macro avg       0.74      0.74      0.74      2602
+weighted avg       0.75      0.75      0.75      2602
+
+
+RandomForest5 auc roc:
+
+0.839

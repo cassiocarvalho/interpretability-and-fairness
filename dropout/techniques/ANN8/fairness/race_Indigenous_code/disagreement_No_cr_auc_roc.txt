@@ -1,0 +1,21 @@
+
+
+ANN8 - disagreement - race_Indigenous_code: No
+
+
+
+ANN8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.50      0.00      0.01       347
+           1       0.82      1.00      0.90      1626
+
+    accuracy                           0.82      1973
+   macro avg       0.66      0.50      0.45      1973
+weighted avg       0.77      0.82      0.75      1973
+
+
+ANN8 auc roc:
+
+0.8

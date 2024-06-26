@@ -1,0 +1,21 @@
+
+
+RandomForest7 Report test2 set
+
+
+
+RandomForest7 classification_report. Explanations:
+
+              precision    recall  f1-score   support
+
+           0       0.58      0.87      0.70      1405
+           1       0.88      0.59      0.71      2133
+
+    accuracy                           0.70      3538
+   macro avg       0.73      0.73      0.70      3538
+weighted avg       0.76      0.70      0.70      3538
+
+
+RandomForest7 auc_roc. Explanations: (without predict_proba())
+
+0.733

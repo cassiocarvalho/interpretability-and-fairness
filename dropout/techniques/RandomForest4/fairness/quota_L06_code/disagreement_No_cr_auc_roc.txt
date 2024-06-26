@@ -1,0 +1,21 @@
+
+
+RandomForest4 - disagreement - quota_L06_code: No
+
+
+
+RandomForest4 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.62      0.25      0.36       347
+           1       0.63      0.89      0.74       499
+
+    accuracy                           0.63       846
+   macro avg       0.63      0.57      0.55       846
+weighted avg       0.63      0.63      0.58       846
+
+
+RandomForest4 auc roc:
+
+0.659

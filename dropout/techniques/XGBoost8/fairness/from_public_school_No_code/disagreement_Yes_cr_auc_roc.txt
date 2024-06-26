@@ -1,0 +1,21 @@
+
+
+XGBoost8 - disagreement - from_public_school_No_code: Yes
+
+
+
+XGBoost8 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.70      0.68      0.69       144
+           1       0.66      0.67      0.66       131
+
+    accuracy                           0.68       275
+   macro avg       0.68      0.68      0.68       275
+weighted avg       0.68      0.68      0.68       275
+
+
+XGBoost8 auc roc:
+
+0.726

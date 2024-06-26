@@ -1,0 +1,21 @@
+
+
+ANN10 - test - from_public_school_Yes_code: Yes
+
+
+
+ANN10 classification report:
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.75      0.71      1035
+           1       0.82      0.76      0.79      1579
+
+    accuracy                           0.75      2614
+   macro avg       0.74      0.75      0.75      2614
+weighted avg       0.76      0.75      0.75      2614
+
+
+ANN10 auc roc:
+
+0.832
